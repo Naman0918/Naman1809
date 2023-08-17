@@ -46,7 +46,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="[[https://github-readme-stats.vercel.app/api?username=Naman1809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1](https://github.com/Naman0918/Naman1809/blob/main/Screenshot%202023-08-18%20at%202.07.35%20AM.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdarkreader%2Fdarkreader%2Fissues%2F558&psig=AOvVaw0dAEmS8mlbdbCVIcj7FfDg&ust=1692390811514000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjartPH5IADFQAAAAAdAAAAABAD)" height="150" alt="stats graph"  />
+  <img src="Screenshot 2023-08-18 at 2.07.35 AM.png" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naman1809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
